@@ -1,5 +1,5 @@
-👋 Hi, I’m Paola, this is my working github profile, but I've started coding 2 years ago and since then I never stopped.
-     In October 2018 I joined [codebar London](https://codebar.io/) pair programming workshops, where I had the opportunity to share my knowledge and discuss with      other professionals and student. Now I am volunteering both as coach and organiser.
+👋 Hi, I’m Paola, this is my working github profile, but I've started coding 2 years ago and since then I never stopped.</br>
+In October 2018 I joined [codebar London](https://codebar.io/) pair programming workshops, where I had the opportunity to share my knowledge and discuss with      other professionals and student. Now I am volunteering both as coach and organiser.
 
 👀 I’m interested in a lot of things mainly realted to cultures, foreign languages and meeting new people. In love with visual arts; I like to express my creative personality through painting and cooking.
 
