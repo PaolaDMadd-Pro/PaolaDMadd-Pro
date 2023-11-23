@@ -9,7 +9,4 @@ In October of that year, I joined [codebar London](https://codebar.io/) pair pro
 💞️ In a future I would like to collaborate on youth projects to create opportunities for those who endured hard childhood. 
 📫 How to reach me [Linkein Profile](https://www.linkedin.com/in/paola-m-0bb05795)
 
-<!---
-PaolaDMadd-Pro/PaolaDMadd-Pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
