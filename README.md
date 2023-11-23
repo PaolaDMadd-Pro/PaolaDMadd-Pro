@@ -3,12 +3,13 @@ In October of that year, I joined [codebar London](https://codebar.io/) pair pro
 
 👀 I’m interested in a lot of things mainly realted to cultures, foreign languages and meeting new people. In love with visual arts; I like to express my creative personality through painting and cooking.
 
-🌱 I’m currently learning C# and .net.
+🌱In the last 2 year and half I learned C# and .net, but also GCP Appengine, BDD, and testing.
+🌱I am currenlty interested in enlarge my coding skills in exploring other cloud platforms.
 
 💞️ In a future I would like to collaborate on youth projects to create opportunities for those who endured hard childhood. 
 📫 How to reach me [Linkein Profile](https://www.linkedin.com/in/paola-m-0bb05795)
 
 <!---
-PaolaDMadd-dft/PaolaDMadd-dft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PaolaDMadd-Pro/PaolaDMadd-Pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
