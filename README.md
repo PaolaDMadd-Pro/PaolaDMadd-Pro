@@ -7,6 +7,6 @@ In October of that year, I joined [codebar London](https://codebar.io/) pair pro
 🌱I am currenlty interested in enlarge my coding skills in exploring other cloud platforms.
 
 💞️ In a future I would like to collaborate on youth projects to create opportunities for those who endured hard childhood. 
-📫 How to reach me [Linkein Profile](https://www.linkedin.com/in/paola-m-0bb05795)
+📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/paola-m-0bb05795)
 
 
